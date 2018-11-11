@@ -16,7 +16,14 @@ There are 2 ways to explore the code:
    
        `($) python navigation.py test`
    
-The enivorments for this project are placed in the _env_ folder. Select the environment as per your OS, unzip the file and update the path to the in the respecting file (_Navigation.ipynb_ or _navigation.py_)    
+Download the environment for this project as per your OS from the following links:
+- [Linux](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+- [Linux Headless](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip)
+- [Mac OSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+- [Windows (32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+- [Windows (64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+
+Update the path to the environment in the respecting file (_Navigation.ipynb_ or _navigation.py_)    
 
 - **Mac**: `path/to/Banana.app`,
 - **Windows** (x86): `path/to/Banana_Windows_x86/Banana.exe`,
