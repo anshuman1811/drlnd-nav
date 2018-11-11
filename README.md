@@ -55,3 +55,14 @@ A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is
 
 ## Solution Criteria
 The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes.
+
+# General Instructions
+## Training
+Follow the Jupyter notebook or run _navigation.py_ with argument _train_.
+
+This will run a round of training as per details in _navigation.py_. You will be able to observe the agent performance if unity environment visualization is enabled. Upon completion, the trained model parameters will be saved in _checkpoint.pth_.
+
+## Testing
+Follow the Jupyter notebook or run _navigation.py_ with argument _test_.
+
+This wil run one episode of the agent with the model parameters saved in _checkpoint.pth_. You can observe the performance of the agent if the unity environment visualization is enabled.
