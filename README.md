@@ -5,6 +5,8 @@ Navigation Project as part of the Deep Reinforcement Learning Nanodegree at Udac
 The project aims to solve an environment similar to the Banana Collection Unity environment employing Value-Based Methods for Deep Reinforcement Learning.
 
 # Getting Started
+Follow this [link](https://github.com/udacity/deep-reinforcement-learning#dependencies) to setup the Udacity DRLND conda enviroment.
+
 There are 2 ways to explore the code:
 1. By following the guided iPython notebook - _Navigation.ipynb_
 2. By directly running _navigation.py_ from command line
